@@ -1,6 +1,6 @@
 package src;
 
-public class personalInformation {
+public class PersonalInformation {
     private String name;
     private String dob;
     private String gender;
