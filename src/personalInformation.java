@@ -4,6 +4,7 @@ public class personalInformation {
     private String name;
     private String dob;
     private String gender;
+    private String address;
     
 
     
