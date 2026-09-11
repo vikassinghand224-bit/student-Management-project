@@ -4,6 +4,7 @@ public class Marks {
     private String studentId;
     private String subjectCode;
     private int marks;
+    
 
     public Marks(String studentId, String subjectCode, int marks) {
         this.studentId = studentId;
@@ -22,4 +23,5 @@ public class Marks {
     public int getMarks() {
         return marks;
     }
+    
 }
