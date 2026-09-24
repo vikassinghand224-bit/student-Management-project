@@ -1,0 +1,12 @@
+src\Subject.class
+src\Gender.class
+src\AcademicInformation.class
+src\Qualification.class
+src\CourseAndSemester.class
+src\Resullt.class
+src\Marks.class
+src\Student.class
+src\DatabaseTest.class
+src\PersonalInformation.class
+src\DatabaseConnection.class
+src\Attendence.class
